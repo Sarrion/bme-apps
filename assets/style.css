@@ -1,0 +1,30 @@
+/*Dropdown items*/
+.Select-control, .Select-multi-value-wrapper, .Select-menu-outer div {
+  background-color: #333;
+  font-color: #FFF !important;
+}
+
+/*Dropdown items*/
+.Select-control, .Select, .Select-value-label, .Select-clear-zone {
+  color: #FFF;
+}
+
+
+/*Dropdown items*/
+.Select-menu-outer {
+  background-color: #333/*;
+  border: 1px solid darkgray !important;*/
+}
+
+/*Dropdown items*/
+.Select-menu-outer div:hover {
+  background-color: #555;
+  cursor: pointer;
+}
+
+/*Dropdown arrow + delete button*/
+.Select-control, .Select-control > span {
+  color: white;
+  background: #333;
+}
+
